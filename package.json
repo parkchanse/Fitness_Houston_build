@@ -60,5 +60,6 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://GitHub.parkchanse.github.io/buildtest",
   "proxy": "http://localhost:5000"
 }
